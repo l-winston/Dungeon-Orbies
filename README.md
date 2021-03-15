@@ -1,2 +1,2 @@
 # Dungeon-Orbies
-PAD  ripoff lel
+PAD-inspired game
